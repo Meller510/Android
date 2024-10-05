@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">m14_retrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="load_image">https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-images-1024.png</string>
+    <string name="btn_restart">Перезагрузить</string>
+    <string name="face">Ну тут будут лица людей</string>
+    <string name="data_user">Тут будут данные пользователя</string>
+    <string name="json_obj_to_text">%1$s%2$s :</string>
+    <string name="json_key_value_to_text">%1$s%2$s : %3$s</string>
+</resources>

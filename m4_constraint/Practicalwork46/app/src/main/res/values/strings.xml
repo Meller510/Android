@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practicalwork4.6</string>
+    <string name="btnPlay">Play</string>
+    <string name="performer">Исполнитель</string>
+    <string name="nameTrack">Наименование композиции</string>
+    <string name="nextTrack">Next track</string>
+    <string name="lastTrack">Last track</string>
+    <string name="Album">Album</string>
+</resources>

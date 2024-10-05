@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practicalwork3.11</string>
+    <string name="text_title_app">Countdown Timer</string>
+    <string name="btn_txt_start">Start</string>
+    <string name="btn_txt_stop">Stop</string>
+    <string name="text_counter">0</string>
+</resources>

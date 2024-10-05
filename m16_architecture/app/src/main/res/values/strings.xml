@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">m16_architecture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">загрузка...</string>
+    <string name="hello">Привет!\nЯ буду показывать тебе разных покемонов =)</string>
+    <string name="refresh">Обновить</string>
+    <string name="imageDescrip">"тут должна быть картинка покемона "</string>
+</resources>

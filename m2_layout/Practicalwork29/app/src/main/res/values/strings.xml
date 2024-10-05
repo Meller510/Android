@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical work2.9</string>
+    <string name="topRowText">Верхняя строчка</string>
+    <string name="botRowText">Нижняя строчка</string>
+</resources>

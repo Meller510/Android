@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">super_quiz</string>
+    <string name="btn_launch">Начать</string>
+    <string name="text_welcome_picture">Картинка привествия</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_send">Отправить</string>
+    <string name="restart">Начать заново</string>
+
+    <string name="content_description_scrollview">Сюда будут загражуться вопросы с ответами</string>
+    <string name="title_quiz_fragment">Опрос</string>
+    <string name="title_results_fragment">Результаты</string>
+</resources>

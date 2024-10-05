@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="12dp"
+    android:id="@+id/cardView"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            tool:src="@drawable/cover"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:scaleType="centerCrop" />
+
+
+        <View
+            android:id="@+id/viewTxtBoard"
+            android:layout_width="match_parent"
+            android:transitionName="@string/txt_board"
+            android:layout_height="50dp"
+            android:layout_alignBottom="@id/imageView"
+            android:background="#80000000" />
+
+        <TextView
+            android:id="@+id/txt_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_alignTop="@id/viewTxtBoard"
+            android:layout_alignParentStart="true"
+            tool:text="sdfgsdgsdg"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtCameraName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/viewTxtBoard"
+            android:layout_alignBottom="@id/viewTxtBoard"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="27dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            tool:text="sdfgsdgsdg" />
+
+        <TextView
+            android:id="@+id/txtSol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/viewTxtBoard"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            tool:text="sdfgsdgsdg" />
+
+        <TextView
+            android:id="@+id/txtDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/viewTxtBoard"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="27dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            tool:text="sdfgsdgsdg" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

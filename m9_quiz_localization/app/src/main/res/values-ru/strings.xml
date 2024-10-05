@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">super_quiz</string>
+    <string name="text_welcome_picture" translatable="false">Картинка привествия</string>
+    <string name="hello_blank_fragment" translatable="false">Привет пустой фрагмент</string>
+
+    <string name="btn_launch" translatable="false">Начать</string>
+    <string name="btn_back" translatable="false">Назад</string>
+    <string name="btn_send" translatable="false">Отправить</string>
+    <string name="btn_restart">Начать заново</string>
+    <string name="btn_DatePicker" translatable="false">Укажите дату рождения</string>
+    <string name="snackbar_btn_launch">Укажите дату рождения</string>
+
+    <string name="content_description_scrollview" translatable="false">Сюда будут загражуться вопросы с ответами</string>
+    <string name="title_quiz_fragment" translatable="false">Опрос</string>
+    <string name="title_results_fragment" translatable="false">Результаты</string>
+    <string name="date_picker_title">Укажите дату рождения</string>
+    <string name="action_snackbar_btn_launch">Указать</string>
+    <string name="snackbar_select_date">Дата вашего рождения: %1$s</string>
+
+</resources>

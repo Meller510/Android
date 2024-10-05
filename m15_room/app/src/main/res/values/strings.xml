@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">m15_room</string>
+    <string name="view_word">%1$d. —> word(\"%2$s\") —> count(\"%3$d\")</string>
+    <string name="layout_error">Вводите слова на русской или англиской раскладке. допускаются дефисы</string>
+    <string name="hint_search_layout">Введите ваше влово</string>
+    <string name="tbn_add">Добавить</string>
+    <string name="tbn_clear">Очистить словарь</string>
+    <string name="scroll_view_description">Ну тут будут ваши слова из словаря</string>
+    <string name="all_view">Показать все записи в словаре</string>
+    <string name="view_5">Показывать первые 5 записей</string>
+</resources>

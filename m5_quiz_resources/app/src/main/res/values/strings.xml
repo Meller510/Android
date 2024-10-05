@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">super_quiz</string>
+    <string name="btn_next">Продолжить</string>
+    <string name="text_welcome_picture">Картинка привествия</string>
+</resources>

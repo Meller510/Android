@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">super_quiz</string>
+    <string name="text_welcome_picture" translatable="false">Picture of the coming</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="btn_launch" translatable="false">Start</string>
+    <string name="btn_back" translatable="false">Back</string>
+    <string name="btn_send" translatable="false">Send</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_DatePicker" translatable="false">Specify the date of birth</string>
+    <string name="snackbar_btn_launch">Specify the date of birth</string>
+
+    <string name="content_description_scrollview" translatable="false">Questions with answers will be uploaded here</string>
+    <string name="title_quiz_fragment" translatable="false">Survey</string>
+    <string name="title_results_fragment" translatable="false">Results</string>
+    <string name="date_picker_title">Set the date of birth</string>
+    <string name="action_snackbar_btn_launch">Select</string>
+    <string name="snackbar_select_date">Your date of birth: %1$s</string>
+
+</resources>

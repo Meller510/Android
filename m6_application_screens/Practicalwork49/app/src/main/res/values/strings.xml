@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Practicalwork49</string>
+    <string name="text_btn_present" tools:ignore="ExtraTranslation">Представиться</string>
+    <string name="text_check_box" tools:ignore="ExtraTranslation">У меня есть отчество</string>
+    <string name="text_hint_last_name">Фамилия</string>
+    <string name="text_hint_first_name">Имя</string>
+    <string name="text_hint_patronymic">Отчество</string>
+    <string name="text_btn_save">Сохранить</string>
+    <string name="error_input_name">Введите имя</string>
+    <string name="error_input_last_name">Введите фамилию</string>
+    <string name="error_input_patronymic">Введите отчество</string>
+
+</resources>
